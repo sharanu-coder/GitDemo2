@@ -11,7 +11,9 @@ public class StringReverse {
 			rev=rev+str.charAt(i);
 		}
 		System.out.println(rev);
-
+		System.out.println("changing the reverse string");
+		System.out.println("changing the reverse string");
+		System.out.println("changing the reverse string");
 	}
 
 }
